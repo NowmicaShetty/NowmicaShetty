@@ -4,7 +4,7 @@
 **React Developer | Frontend Developer | Web Developer**
 ---
 
- **Hi, Welcome to my GitHub profile!** 👋 
+ # Hi, Welcome to my GitHub profile! 👋 
 
 **Summary**
 ---
@@ -49,13 +49,13 @@ Les Restaurant is an elegant dining establishment that focuses on providing a me
 
 Ciniverse is a vibrant online platform designed for film enthusiasts to discover, share, and discuss movies and TV shows.
 
-[Wisdom Walk](https://wisdom-walk.vercel.app/)
+[Wisdom Walk](https://github.com/NowmicaShetty/Wisdom-Walk)
 
 **Tech Stack:**  HTML5, CSS3, Javascript, Swiper.js
 
 The Scholar Lane College Website is a comprehensive online platform designed to provide detailed information and essential services for a college. The website is built using HTML5, CSS3, JavaScript, and Swiper.js, ensuring a dynamic and user-friendly experience.
 
-[Cozy Nest Furnishings](https://cozy-nest-furnishings.vercel.app/)
+[Cozy Nest Furnishings](https://github.com/NowmicaShetty/Cozy-Nest-Furnishings)
 
 **Tech Stack:** React Js, HTML5, CSS3, JavaScript, Git
 
