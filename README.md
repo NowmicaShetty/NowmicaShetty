@@ -47,7 +47,7 @@ Ciniverse is a vibrant online platform designed for film enthusiasts to discover
 
 **Tech Stack:**  HTML5, CSS3, Javascript, Swiper.js
 
-The Scholar Lane College Website is a comprehensive online platform designed to provide detailed information and essential services for a college. The website is built using HTML5, CSS3, JavaScript, and Swiper.js, ensuring a dynamic and user-friendly experience.
+The Wisdom walk Website is a comprehensive online platform designed to provide detailed information and essential services for a college. The website is built using HTML5, CSS3, JavaScript, and Swiper.js, ensuring a dynamic and user-friendly experience.
 
 ### [Cozy Nest Furnishings](https://github.com/NowmicaShetty/Cozy-Nest-Furnishings)
 
