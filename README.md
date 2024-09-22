@@ -3,7 +3,7 @@
 **React Developer | Frontend Developer | Web Developer**
 ---
 
- ### Hi, Welcome to my GitHub profile! 👋 
+ ## Hi, Welcome to my GitHub profile! 👋 
 
 **Summary**
 ---
@@ -59,3 +59,5 @@ The Scholar Lane College Website is a comprehensive online platform designed to 
 **Tech Stack:** React Js, HTML5, CSS3, JavaScript, Git
 
 Cozy Nest Furnishings is a online webiste for shopping stylish and functional furniture that transforms living spaces.
+
+[OpenAI's website](https://www.openai.com)
