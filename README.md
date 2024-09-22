@@ -1,4 +1,5 @@
 Nowmica Shetty.
+
 React Developer | Frontend Developer | Web Developer
 
 Hi, Welcome to my GitHub profile! 👋
